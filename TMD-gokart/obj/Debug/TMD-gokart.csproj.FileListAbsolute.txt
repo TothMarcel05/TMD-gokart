@@ -1,0 +1,15 @@
+C:\Users\TothMarcel\Desktop\IKT-ProjektMunka\TMD-gokart\bin\Debug\TMD-gokart.exe.config
+C:\Users\TothMarcel\Desktop\IKT-ProjektMunka\TMD-gokart\bin\Debug\TMD-gokart.exe
+C:\Users\TothMarcel\Desktop\IKT-ProjektMunka\TMD-gokart\bin\Debug\TMD-gokart.pdb
+C:\Users\TothMarcel\Desktop\IKT-ProjektMunka\TMD-gokart\obj\Debug\TMD-gokart.csproj.AssemblyReference.cache
+C:\Users\TothMarcel\Desktop\IKT-ProjektMunka\TMD-gokart\obj\Debug\TMD-gokart.csproj.CoreCompileInputs.cache
+C:\Users\TothMarcel\Desktop\IKT-ProjektMunka\TMD-gokart\obj\Debug\TMD-gokart.exe
+C:\Users\TothMarcel\Desktop\IKT-ProjektMunka\TMD-gokart\obj\Debug\TMD-gokart.pdb
+C:\Users\TothMarcel\Desktop\IKT-ProjektMunka\TMD-gokart\obj\Debug\TMD-gokart.exe.config
+C:\Users\marce\source\repos\TMD-gokart\bin\Debug\TMD-gokart.exe.config
+C:\Users\marce\source\repos\TMD-gokart\bin\Debug\TMD-gokart.exe
+C:\Users\marce\source\repos\TMD-gokart\bin\Debug\TMD-gokart.pdb
+C:\Users\marce\source\repos\TMD-gokart\obj\Debug\TMD-gokart.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\TMD-gokart\obj\Debug\TMD-gokart.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\TMD-gokart\obj\Debug\TMD-gokart.exe
+C:\Users\marce\source\repos\TMD-gokart\obj\Debug\TMD-gokart.pdb
